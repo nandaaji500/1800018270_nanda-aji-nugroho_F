@@ -1,0 +1,74 @@
+.jumbotron1{
+
+    background: url(pantai\ kesirat1.png) no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 300px;
+    text-align: right;
+    font-family: 'Righteous', cursive;    
+}
+
+.jumbotron2{
+
+    margin-top: 30px;
+    background: url(pantai\ krakal.png) no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 300px;
+    text-align: right;
+    font-family: 'Righteous', cursive;
+}
+
+.jumbotron3{
+
+    margin-top: 30px;
+    background: url(pinus\ mangunan.png) no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 300px;
+    text-align: left;
+    font-family: 'Righteous', cursive;
+}
+
+.jumbotron4{
+
+    margin-top: 30px;
+    background: url(pantai\ indrayanti.png) no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 300px;
+    text-align: right;
+    font-family: 'Righteous', cursive;
+}
+
+.jumbotron5{
+
+    margin-top: 30px;
+    background: url(pantai\ timang.png) no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 300px;
+    text-align: left;
+    font-family: 'Righteous', cursive;
+}
+
+.jumbotron7{
+
+    margin-top: 30px;
+    background: url(puncak\ becici.png) no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 300px;
+    text-align: right;
+    font-family: 'Righteous', cursive;
+}
+.jumbotron8{
+
+    margin-top: 30px;
+    background: url(bukit\ bintang.png) no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 300px;
+    text-align: left;
+    font-family: 'Righteous', cursive;
+}

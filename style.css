@@ -1,0 +1,42 @@
+.jumbotron{
+
+    background: url(pantai-krakal.jpg) no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 500px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    border-radius: 0%;
+    
+}
+
+
+.text{
+    margin-top: 50px;
+    color: black;    
+}
+
+input{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50px;
+    height: 40px;
+    width: 300px;
+    border: 3px solid #0797bb;
+    padding: 0px 10px;
+}
+
+button{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 40px;
+    width: 100px;
+    border: 3px solid #0797bb;
+    padding: 0px 10px;
+    color: grey;
+
+}
